@@ -1,5 +1,6 @@
 package pokerBase;
 
+import java.util.ArrayList;
 import pokerEnums.eRank;
 import pokerEnums.eSuit;
 
